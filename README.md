@@ -1,3 +1,4 @@
+# Learn about hottowel from https://github.com/johnpapa/generator-hottowel
 # hottowelApp
 
 **Generated from HotTowel Angular**
@@ -266,3 +267,4 @@ The `blocks.router` module contains a routing helper module that assists in addi
 ## License
 
 MIT
+=======
